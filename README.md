@@ -1,4 +1,4 @@
-# Milkyfactory-database
+# Milkyfactory-database(#SQL,Queries)
 # 🍫 Milly’s Chocolate Factory – Database System
 
 ## 📌 Project Overview
